@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="172" viewBox="0 0 1000 172" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC','Helvetica Neue',Arial,sans-serif">
+  <rect x="1" y="1" width="998" height="170" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="32" y="40" font-size="14" font-weight="700" fill="#59636e">Astron Community Leaderboard · iFlytek Open Source Agent &amp; Model Ecosystem</text>
+  <text x="32" y="114" font-size="68" font-weight="800" fill="#a3161b">#1</text>
+  <text x="122" y="112" font-size="15" fill="#59636e">/ 19 ranked</text>
+  <line x1="370" y1="56" x2="370" y2="122" stroke="#d0d7de"/>
+  <text x="400" y="88" font-size="32" font-weight="800" fill="#1f2328">2530</text>
+  <text x="400" y="114" font-size="13" fill="#59636e">Contribution score</text>
+  <text x="548" y="88" font-size="32" font-weight="800" fill="#1f2328">278</text>
+  <text x="548" y="114" font-size="13" fill="#59636e">Pull requests</text>
+  <text x="696" y="88" font-size="32" font-weight="800" fill="#1f2328">181</text>
+  <text x="696" y="114" font-size="13" fill="#59636e">Merged PRs</text>
+  <text x="844" y="88" font-size="32" font-weight="800" fill="#1f2328">116</text>
+  <text x="844" y="114" font-size="13" fill="#59636e">Issues</text>
+  <text x="32" y="152" font-size="12" fill="#59636e">Across 12 repositories · Updated 2026-10-09 · Auto-synced every 3 hours</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC','Helvetica Neue',Arial,sans-serif">
+  <rect x="1" y="1" width="998" height="248" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="24" width="6" height="202" rx="3" fill="#ff7b72"/>
+  <text x="48" y="86" font-size="46" font-weight="700" fill="#e6edf3" letter-spacing="2">Fenju Fu</text>
+  <text x="290" y="86" font-size="24" fill="#9198a1">符芬菊</text>
+  <text x="48" y="126" font-size="20" font-weight="700" fill="#ff7b72">Developer Relations · Open Source Community</text>
+  <g font-size="15" fill="#9198a1">
+    <text x="48" y="168">🎓 Peking University · M.A. Journalism &amp; Communication · B.A. Journalism</text>
+    <text x="48" y="196">💼 iFlytek Open Source DevRel</text>
+    <text x="48" y="224">🏅 Academic Secretary, CCF Women in Computing "Yifang Salon" Committee, 2026–2027</text>
+  </g>
+  <line x1="672" y1="44" x2="672" y2="206" stroke="#30363d"/>
+  <rect x="700" y="40" width="262" height="50" rx="12" fill="#2d1517" stroke="#30363d"/>
+  <rect x="700" y="50" width="4" height="30" rx="2" fill="#ff7b72"/>
+  <text x="720" y="60" font-size="12" fill="#9198a1">iFlytek Agent &amp; Model Ecosystem</text>
+  <text x="720" y="80" font-size="16" font-weight="700" fill="#e6edf3">Contributor #1</text>
+  <rect x="700" y="98" width="262" height="50" rx="12" fill="#2d1517" stroke="#30363d"/>
+  <rect x="700" y="108" width="4" height="30" rx="2" fill="#ff7b72"/>
+  <text x="720" y="118" font-size="12" fill="#9198a1">Spark-X2.5</text>
+  <text x="720" y="138" font-size="16" font-weight="700" fill="#e6edf3">Hugging Face Trending #1</text>
+  <rect x="700" y="156" width="262" height="50" rx="12" fill="#2d1517" stroke="#30363d"/>
+  <rect x="700" y="166" width="4" height="30" rx="2" fill="#ff7b72"/>
+  <text x="720" y="176" font-size="12" fill="#9198a1">Open Source</text>
+  <text x="720" y="196" font-size="16" font-weight="700" fill="#e6edf3">300+ merged PRs</text>
+</svg>
