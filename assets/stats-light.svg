@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC','Helvetica Neue',Arial,sans-serif">
+  <g class="f" style="animation-delay:0s">
+      <rect x="1" y="1" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="21" y="49" font-size="34" font-weight="800" fill="#a3161b">18k+</text>
+      <text x="21" y="75" font-size="15" font-weight="700" fill="#1f2328">分层运营触达开发者</text>
+      <text x="21" y="97" font-size="12" fill="#59636e">D0 用户 · 自动化管线</text>
+    </g><g class="f" style="animation-delay:0.07s">
+      <rect x="254.5" y="1" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="274.5" y="49" font-size="34" font-weight="800" fill="#a3161b">500+</text>
+      <text x="274.5" y="75" font-size="15" font-weight="700" fill="#1f2328">社区贡献者</text>
+      <text x="274.5" y="97" font-size="12" fill="#59636e">其中 100+ 核心代码贡献者</text>
+    </g><g class="f" style="animation-delay:0.14s">
+      <rect x="508" y="1" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="528" y="49" font-size="34" font-weight="800" fill="#a3161b">24%</text>
+      <text x="528" y="75" font-size="15" font-weight="700" fill="#1f2328">代码转化率</text>
+      <text x="528" y="97" font-size="12" fill="#59636e">用户 → 代码贡献者</text>
+    </g><g class="f" style="animation-delay:0.21000000000000002s">
+      <rect x="761.5" y="1" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="781.5" y="49" font-size="34" font-weight="800" fill="#a3161b">300+</text>
+      <text x="781.5" y="75" font-size="15" font-weight="700" fill="#1f2328">merged PRs</text>
+      <text x="781.5" y="97" font-size="12" fill="#59636e">50+ 仓库 · 10+ 框架接入讯飞</text>
+    </g><g class="f" style="animation-delay:0.28s">
+      <rect x="1" y="127" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="21" y="175" font-size="34" font-weight="800" fill="#a3161b">#1</text>
+      <text x="21" y="201" font-size="15" font-weight="700" fill="#1f2328">Spark-X2.5</text>
+      <text x="21" y="223" font-size="12" fill="#59636e">HF Trending · 10 万+ 下载</text>
+    </g><g class="f" style="animation-delay:0.35000000000000003s">
+      <rect x="254.5" y="127" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="274.5" y="175" font-size="34" font-weight="800" fill="#a3161b">#1</text>
+      <text x="274.5" y="201" font-size="15" font-weight="700" fill="#1f2328">Astron Agent</text>
+      <text x="274.5" y="223" font-size="12" fill="#59636e">GitHub Trending · OpenRank 第一</text>
+    </g><g class="f" style="animation-delay:0.42000000000000004s">
+      <rect x="508" y="127" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="528" y="175" font-size="34" font-weight="800" fill="#a3161b">90+</text>
+      <text x="528" y="201" font-size="15" font-weight="700" fill="#1f2328">赛事 / 演讲 / Workshop</text>
+      <text x="528" y="223" font-size="12" fill="#59636e">6 期 HER Hack 黑客松 · 作品 70+</text>
+    </g><g class="f" style="animation-delay:0.49000000000000005s">
+      <rect x="761.5" y="127" width="237.5" height="110" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="781.5" y="175" font-size="34" font-weight="800" fill="#a3161b">200+</text>
+      <text x="781.5" y="201" font-size="15" font-weight="700" fill="#1f2328">中英文技术视频</text>
+      <text x="781.5" y="223" font-size="12" fill="#59636e">7 渠道自动化分发 · 周曝光 14 万</text>
+    </g>
+</svg>

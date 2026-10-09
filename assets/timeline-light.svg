@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC','Helvetica Neue',Arial,sans-serif">
+  <g class="f" style="animation-delay:0s">
+      <rect x="32" y="62" width="381.64102564102564" height="10" rx="5" fill="#59636e"/>
+      <text x="222.82051282051282" y="38" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">开放原子开源基金会</text>
+      <text x="222.82051282051282" y="54" font-size="12" fill="#59636e" text-anchor="middle">开源项目运营官</text>
+    </g><g class="f" style="animation-delay:0.15s">
+      <rect x="417.64102564102564" y="62" width="212.92307692307702" height="10" rx="5" fill="#0969da"/>
+      <text x="524.1025641025642" y="38" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">GitCode</text>
+      <text x="524.1025641025642" y="54" font-size="12" fill="#59636e" text-anchor="middle">开源项目运营</text>
+    </g><g class="f" style="animation-delay:0.3s">
+      <rect x="634.5641025641027" y="62" width="333.43589743589735" height="10" rx="5" fill="#a3161b"/>
+      <text x="801.2820512820513" y="38" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">科大讯飞开放平台</text>
+      <text x="801.2820512820513" y="54" font-size="12" fill="#59636e" text-anchor="middle">产品运营经理 · Astron 开源</text>
+    </g><circle cx="30" cy="67" r="6" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+     <text x="30" y="98" font-size="12" fill="#59636e" text-anchor="middle">2023.07</text><circle cx="415.64102564102564" cy="67" r="6" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+     <text x="415.64102564102564" y="98" font-size="12" fill="#59636e" text-anchor="middle">2024.11</text><circle cx="632.5641025641027" cy="67" r="6" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+     <text x="632.5641025641027" y="98" font-size="12" fill="#59636e" text-anchor="middle">2025.08</text><circle cx="970" cy="67" r="6" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+     <text x="970" y="98" font-size="12" fill="#59636e" text-anchor="middle">2026.10</text>
+</svg>
